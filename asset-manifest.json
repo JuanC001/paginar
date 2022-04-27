@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paginar/static/css/main.1d95c977.css",
+    "main.js": "/paginar/static/js/main.c5a90582.js",
+    "index.html": "/paginar/index.html",
+    "main.1d95c977.css.map": "/paginar/static/css/main.1d95c977.css.map",
+    "main.c5a90582.js.map": "/paginar/static/js/main.c5a90582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d95c977.css",
+    "static/js/main.c5a90582.js"
+  ]
+}
