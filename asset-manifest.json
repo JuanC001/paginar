@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/paginar/static/css/main.1d95c977.css",
-    "main.js": "/paginar/static/js/main.ec0f69b5.js",
+    "main.js": "/paginar/static/js/main.e112f954.js",
     "index.html": "/paginar/index.html",
     "main.1d95c977.css.map": "/paginar/static/css/main.1d95c977.css.map",
-    "main.ec0f69b5.js.map": "/paginar/static/js/main.ec0f69b5.js.map"
+    "main.e112f954.js.map": "/paginar/static/js/main.e112f954.js.map"
   },
   "entrypoints": [
     "static/css/main.1d95c977.css",
-    "static/js/main.ec0f69b5.js"
+    "static/js/main.e112f954.js"
   ]
 }
